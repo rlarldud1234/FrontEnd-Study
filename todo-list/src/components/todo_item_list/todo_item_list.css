@@ -1,0 +1,16 @@
+.todoapp_list {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.todoapp_list-tit {
+  font-weight: bold;
+  margin: 0;
+}
+.todoapp_list-ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+}
